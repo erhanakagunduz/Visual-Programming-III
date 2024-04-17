@@ -1,0 +1,12 @@
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\bin\Debug\ogrenci_otomasyon_sistemi.exe.config
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\bin\Debug\ogrenci_otomasyon_sistemi.exe
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\bin\Debug\ogrenci_otomasyon_sistemi.pdb
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.OturumAcilis.resources
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.Properties.Resources.resources
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.exe
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.pdb
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.PresentationLayer.AnaMenu.resources
+C:\Users\Furkan\source\repos\ogrenci_otomasyon_sistemi\obj\Debug\ogrenci_otomasyon_sistemi.PresentationLayer.Kullanicilar.KullaniciYeniKayit.resources
