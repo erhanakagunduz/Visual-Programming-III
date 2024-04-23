@@ -13,7 +13,7 @@ namespace ogrenci_otomasyon_sistemi.dbConn
     {
         string baglanti_yolu = "Data Source = DESKTOP-5PGN9UA\\SQLEXPRESS; Initial Catalog = OgrenciOtomasyonu; Integrated Security = True;";
 
-        privete SqlDataAdapter dataAdapter;
+        private SqlDataAdapter dataAdapter;
 
         private SqlConnection baglanti;
 

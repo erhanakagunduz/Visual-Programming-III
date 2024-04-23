@@ -49,7 +49,7 @@
     <Compile Include="BusinessLogicLayer\tblKullanicilarBLL.cs" />
     <Compile Include="DataAccessObjectLayer\tblKullanicilarDAO.cs" />
     <Compile Include="dbConn\VeriTabaniBaglantisi.cs" />
-    <Compile Include="PocoLayer\tblKullanicilarPoco.cs" />
+    <Compile Include="PocosLayer\tblKullanicilarPoco.cs" />
     <Compile Include="PresentationLayer\AnaMenu.cs">
       <SubType>Form</SubType>
     </Compile>
