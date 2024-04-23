@@ -34,6 +34,7 @@ namespace ogrenci_otomasyon_sistemi
 
             if ((_tblKullanicilarPoco.kullaniciAdi == null) || (_tblKullanicilarPoco.sifre == null))
                 MessageBox.Show("Hatali Giris Yaptiniz...");
+                MessageBox.Show("Hatali Giris Yaptiniz", "Hata Mesajı", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
             else
             {
                 this.Hide();
