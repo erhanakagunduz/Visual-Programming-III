@@ -33,7 +33,6 @@ namespace ogrenci_otomasyon_sistemi
             _tblKullanicilarPoco = _tblKullanicilarBLL.getSorgu(textBox1.Text, textBox2.Text);
 
             if ((_tblKullanicilarPoco.kullaniciAdi == null) || (_tblKullanicilarPoco.sifre == null))
-                MessageBox.Show("Hatali Giris Yaptiniz...");
                 MessageBox.Show("Hatali Giris Yaptiniz", "Hata Mesajı", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
             else
             {
