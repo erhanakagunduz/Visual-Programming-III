@@ -23,8 +23,7 @@ namespace Ogrenci_Otomasyon_Sistemi.dbConn
         {
             dataAdapter = new SqlDataAdapter();
 
-            baglanti = new SqlConnection(@"Data Source=FURKAN\SQLEXPRESS;Initial Catalog=OgrenciOtomasyonu;
-                     Persist Security Info=True;User ID=sa;Password=***********;Trust Server Certificate=True");
+            baglanti = new SqlConnection(@"Data Source=FURKAN\SQLEXPRESS;Initial Catalog=OgrenciOtomasyonu;Persist Security Info=True;User ID=sa;Password=***********;Encrypt=False;Trust Server Certificate=True");
         }
 
         private SqlConnection openConnection()

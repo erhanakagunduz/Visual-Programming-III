@@ -50,6 +50,12 @@
     <Compile Include="DataAccessObjects\TblKullanicilarDAO.cs" />
     <Compile Include="dbConn\VeriTabaniBaglantisi.cs" />
     <Compile Include="PocosLayer\TblKullanicilarPoco.cs" />
+    <Compile Include="PresentationLayer\AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
     <Compile Include="PresentationLayer\Kullanici\KullaniciGuncelleme.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,8 +88,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PresentationLayer\AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PresentationLayer\Kullanici\KullaniciGuncelleme.resx">
       <DependentUpon>KullaniciGuncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\Kullanici\KullaniciYeniKayit.resx">
+      <DependentUpon>KullaniciYeniKayit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PresentationLayer\OturumAcilis.resx">
       <DependentUpon>OturumAcilis.cs</DependentUpon>

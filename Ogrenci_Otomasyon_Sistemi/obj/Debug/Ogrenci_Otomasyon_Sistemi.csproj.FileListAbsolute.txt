@@ -9,3 +9,5 @@ C:\Users\yamac\Documents\GitHub\Visual-Programming-III\Ogrenci_Otomasyon_Sistemi
 C:\Users\yamac\Documents\GitHub\Visual-Programming-III\Ogrenci_Otomasyon_Sistemi\obj\Debug\Ogrenci_Otomasyon_Sistemi.exe
 C:\Users\yamac\Documents\GitHub\Visual-Programming-III\Ogrenci_Otomasyon_Sistemi\obj\Debug\Ogrenci_Otomasyon_Sistemi.pdb
 C:\Users\yamac\Documents\GitHub\Visual-Programming-III\Ogrenci_Otomasyon_Sistemi\obj\Debug\Ogrenci_Otomasyon_Sistemi.PresentationLayer.Kullanici.KullaniciGuncelleme.resources
+C:\Users\yamac\Documents\GitHub\Visual-Programming-III\Ogrenci_Otomasyon_Sistemi\obj\Debug\Ogrenci_Otomasyon_Sistemi.PresentationLayer.AnaMenu.resources
+C:\Users\yamac\Documents\GitHub\Visual-Programming-III\Ogrenci_Otomasyon_Sistemi\obj\Debug\Ogrenci_Otomasyon_Sistemi.PresentationLayer.Kullanici.KullaniciYeniKayit.resources

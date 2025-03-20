@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Ogrenci_Otomasyon_Sistemi.PresentationLayer;
 
 namespace Ogrenci_Otomasyon_Sistemi.PresentationLayer.Kullanici
 {
@@ -15,6 +16,13 @@ namespace Ogrenci_Otomasyon_Sistemi.PresentationLayer.Kullanici
         public KullaniciYeniKayit()
         {
             InitializeComponent();
+        }
+
+        private void btnAnaMenu_Click(object sender, EventArgs e)
+        {
+            AnaMenu girisEkrani = new AnaMenu();
+            girisEkrani.Show();
+            this.Close();
         }
     }
 }
