@@ -51,5 +51,33 @@ namespace Ogrenci_Otomasyon_Sistemi.BusinessLogicLayer
             // POCO nesnesi geri döndürülür
             return kullaniciGirisi;
         }
+
+
+        public TblKullanicilarPoco kaydetKullanici(string kullaniciid, string tckimlik, string kullaniciadi, string sifre, string ad, string soyad, string birimId)
+        {
+            TblKullanicilarPoco kullaniciKaydet = new TblKullanicilarPoco();
+
+            DataTable dataTable = new DataTable();
+
+            _tblKullanicilarDAO.insertKullanicilar(kullaniciid,tckimlik,kullaniciadi,sifre,ad,soyad,birimId);
+
+            foreach (DataRow dr in dataTable.Rows)
+            {
+                dr["kullaniciid"] = kullaniciKaydet.kullaniciID;
+                dr["tckimlik"] = kullaniciKaydet.tcKimlik;
+                dr["kullaniciadi"] = kullaniciKaydet.kullaniciAdi;
+                dr["sifre"] = kullaniciKaydet.sifre;
+                dr["ad"] = kullaniciKaydet.ad;
+                dr["soyad"] = kullaniciKaydet.soyad;
+                dr["birimId"] = kullaniciKaydet.birimId;
+
+
+
+
+            }
+
+
+            return kullaniciKaydet;
+        }
     }
 }

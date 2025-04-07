@@ -16,10 +16,10 @@ namespace Ogrenci_Otomasyon_Sistemi.dbConn
     internal class VeriTabaniBaglantisi
     {
         // SQL veri adaptörü
-        private SqlDataAdapter dataAdapter;
+        public SqlDataAdapter dataAdapter;
 
         // SQL bağlantı nesnesi
-        private SqlConnection baglanti;
+        public SqlConnection baglanti;
 
         // Kurucu Metot (Constructor), bağlantıyı ve adaptörü başlatır
         public VeriTabaniBaglantisi()

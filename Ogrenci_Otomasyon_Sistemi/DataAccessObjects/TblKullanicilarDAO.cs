@@ -48,5 +48,37 @@ namespace Ogrenci_Otomasyon_Sistemi.DataAccessObjects
             // Veritabanı bağlantı sınıfını kullanarak sorguyu çalıştıralım ve sonucu çağrılan yere döndürelim
             return baglanti.executeSelectQuery(sorgu, sqlParameters);
         }
+
+        public bool insertKullanicilar(string kullaniciid, string tckimlik, string kullaniciadi, string sifre, string ad, string soyad, string birimId)
+        {
+            string sorgu = string.Format("INSERT INTO tbl_kullanicilar(KullaniciId, TcKimlik, KullaniciAdi, Sifre, Ad, Soyad, BirimID) VALUES(@kullaniciid,@tckimlik,@kullaniciadi,@sifre,@ad, @soyad, @birimId)");
+
+            SqlParameter[] sqlParameters = new SqlParameter[7];
+
+            sqlParameters[0] = new SqlParameter("@kullaniciid", SqlDbType.NVarChar);
+            sqlParameters[0].Value = Convert.ToString(kullaniciid);
+
+            sqlParameters[1] = new SqlParameter("@tckimlik", SqlDbType.NVarChar);
+            sqlParameters[1].Value= Convert.ToString(tckimlik);
+
+            sqlParameters[2] = new SqlParameter("@kullaniciadi", SqlDbType.NVarChar);
+            sqlParameters[2].Value = Convert.ToString(kullaniciadi);
+
+            sqlParameters[3] = new SqlParameter("@sifre", SqlDbType.NVarChar);
+            sqlParameters[3].Value = Convert.ToString(sifre);
+
+            sqlParameters[4] = new SqlParameter("@ad", SqlDbType.NVarChar);
+            sqlParameters[4].Value = Convert.ToString(ad);
+
+            sqlParameters[5] = new SqlParameter("@soyad", SqlDbType.NVarChar);
+            sqlParameters[5].Value = Convert.ToString(soyad);
+
+            sqlParameters[6] = new SqlParameter("@birimId", SqlDbType.NVarChar);
+            sqlParameters[6].Value = Convert.ToString(birimId);
+
+            return baglanti.executeInsertQuery(sorgu, sqlParameters);
+
+
+        }
     }
 }

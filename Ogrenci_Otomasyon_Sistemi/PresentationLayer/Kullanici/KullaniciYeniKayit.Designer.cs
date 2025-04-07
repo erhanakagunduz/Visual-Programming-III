@@ -59,6 +59,7 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(1011, 243);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.Click += new System.EventHandler(this.dataGridView1_Click);
             // 
             // panel1
             // 
@@ -103,6 +104,7 @@
             this.btnKaydet.TabIndex = 14;
             this.btnKaydet.Text = "Kaydet";
             this.btnKaydet.UseVisualStyleBackColor = true;
+            this.btnKaydet.Click += new System.EventHandler(this.btnKaydet_Click);
             // 
             // txtBirimId
             // 
@@ -225,6 +227,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "KullaniciYeniKayit";
             this.Text = "KullaniciYeniKayit";
+            this.Load += new System.EventHandler(this.KullaniciYeniKayit_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
