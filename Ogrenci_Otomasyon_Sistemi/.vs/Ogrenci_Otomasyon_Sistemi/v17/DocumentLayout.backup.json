@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\dataaccessobjects\\tblkullanicilardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:dataaccessobjects\\tblkullanicilardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|c:\\users\\yamac\\documents\\github\\visual-programming-iii\\ogrenci_otomasyon_sistemi\\presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\businesslogiclayer\\tblkullanicilarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:businesslogiclayer\\tblkullanicilarbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|c:\\users\\yamac\\documents\\github\\visual-programming-iii\\ogrenci_otomasyon_sistemi\\presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:presentationlayer\\kullanici\\kullaniciyenikayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|c:\\users\\yamac\\documents\\github\\visual-programming-iii\\ogrenci_otomasyon_sistemi\\dataaccessobjects\\tblkullanicilardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:dataaccessobjects\\tblkullanicilardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|c:\\users\\yamac\\documents\\github\\visual-programming-iii\\ogrenci_otomasyon_sistemi\\dbconn\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:dbconn\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|c:\\users\\yamac\\documents\\github\\visual-programming-iii\\ogrenci_otomasyon_sistemi\\presentationlayer\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|solutionrelative:presentationlayer\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9140E714-8035-48B4-85B6-72645F2BFDD0}|Ogrenci_Otomasyon_Sistemi.csproj|C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\presentationlayer\\oturumacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,17 +38,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "VeriTabaniBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\dbConn\\VeriTabaniBaglantisi.cs",
+              "RelativeDocumentMoniker": "dbConn\\VeriTabaniBaglantisi.cs",
+              "ToolTip": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\dbConn\\VeriTabaniBaglantisi.cs",
+              "RelativeToolTip": "dbConn\\VeriTabaniBaglantisi.cs",
+              "ViewState": "AgIAAAoAAACAMDMzMzMbwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:11:33.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\PresentationLayer\\AnaMenu.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\AnaMenu.cs",
+              "ToolTip": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\PresentationLayer\\AnaMenu.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\AnaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:44:50.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TblKullanicilarDAO.cs",
               "DocumentMoniker": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\DataAccessObjects\\TblKullanicilarDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\TblKullanicilarDAO.cs",
               "ToolTip": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\DataAccessObjects\\TblKullanicilarDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\TblKullanicilarDAO.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAgwEsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T10:32:36.744Z",
               "EditorCaption": ""
@@ -53,27 +86,27 @@
               "RelativeDocumentMoniker": "BusinessLogicLayer\\TblKullanicilarBLL.cs",
               "ToolTip": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\BusinessLogicLayer\\TblKullanicilarBLL.cs",
               "RelativeToolTip": "BusinessLogicLayer\\TblKullanicilarBLL.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwEcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T10:30:18.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KullaniciYeniKayit.cs",
               "DocumentMoniker": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\PresentationLayer\\Kullanici\\KullaniciYeniKayit.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Kullanici\\KullaniciYeniKayit.cs",
               "ToolTip": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\PresentationLayer\\Kullanici\\KullaniciYeniKayit.cs",
               "RelativeToolTip": "PresentationLayer\\Kullanici\\KullaniciYeniKayit.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAA5wEgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAA5v/////1v1AAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T10:03:19.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "KullaniciYeniKayit.cs [Design]",
               "DocumentMoniker": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\PresentationLayer\\Kullanici\\KullaniciYeniKayit.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Kullanici\\KullaniciYeniKayit.cs",
@@ -85,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "OturumAcilis.cs [Design]",
               "DocumentMoniker": "C:\\Users\\yamac\\Documents\\GitHub\\Visual-Programming-III\\Ogrenci_Otomasyon_Sistemi\\PresentationLayer\\OturumAcilis.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\OturumAcilis.cs",

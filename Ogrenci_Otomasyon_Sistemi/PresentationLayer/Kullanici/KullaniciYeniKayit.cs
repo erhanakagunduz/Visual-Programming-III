@@ -71,6 +71,15 @@ namespace Ogrenci_Otomasyon_Sistemi.PresentationLayer.Kullanici
             MessageBox.Show("Yeni Kayıt İşlemi Başarılı","Mesaj Kutusu",MessageBoxButtons.OKCancel,MessageBoxIcon.Information);
 
             Listele();
+
+            txtID.Text = "";
+            txtBirimId.Text = "";
+            txtIsim.Text = "";
+            txtKullaniciAdi.Text = "";
+            txtSifre.Text = "";
+            txtTcKimlikNo.Text = "";
+            txtSoyisim.Text = "";
+
         }
 
         private void KullaniciYeniKayit_Load(object sender, EventArgs e)
@@ -87,6 +96,8 @@ namespace Ogrenci_Otomasyon_Sistemi.PresentationLayer.Kullanici
             txtIsim.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
             txtSoyisim.Text = dataGridView1.CurrentRow.Cells[5].Value.ToString();
             txtBirimId.Text = dataGridView1.CurrentRow.Cells[6].Value.ToString();
+
+
         }
     }
 }

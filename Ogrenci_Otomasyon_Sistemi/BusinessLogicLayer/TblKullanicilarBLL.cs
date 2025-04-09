@@ -70,10 +70,6 @@ namespace Ogrenci_Otomasyon_Sistemi.BusinessLogicLayer
                 dr["ad"] = kullaniciKaydet.ad;
                 dr["soyad"] = kullaniciKaydet.soyad;
                 dr["birimId"] = kullaniciKaydet.birimId;
-
-
-
-
             }
 
 
